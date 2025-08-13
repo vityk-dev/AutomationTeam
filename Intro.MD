@@ -106,41 +106,8 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 
 ---
 
-## 🔧 **ARCHITEKTURA TECHNICZNA**
-
-### **🌍 Enterprise-Grade Infrastructure**
-```
-🏗️ Edge Computing Layer:
-├── Global CDN: <50ms response worldwide
-├── Auto-scaling: handles 10,000+ concurrent users
-├── DDoS protection: enterprise-level security
-└── 99.9% uptime SLA with failover
-
-☁️ Google Cloud Backend:
-├── 3-account architecture for quota optimization
-├── Automatic load balancing
-├── Real-time data synchronization
-└── Encrypted storage with redundancy
-
-🔐 Security Stack:
-├── Multi-layer authentication
-├── End-to-end encryption
-├── Role-based access control
-├── Session management with auto-expiry
-└── Penetration testing validated
-```
-
-### **📊 Data Architecture**
-- **Google Sheets**: Real-time database z automatic versioning
-- **Google Drive**: Organized folder structure z smart archiving
-- **Smart Caching**: 24h role cache, 15s data cache
-- **Backup Strategy**: Daily automated z point-in-time recovery
-
----
-
 ## 🎨 **DEMO FLOW: JAK TO DZIAŁA**
-
-### **Manager Onboarding (5 minut)**
+### **Dla menegżerów (5 minut)**
 ```
 1. 📱 Telegram Bot Setup
 2. 👥 Import listy pracowników (Excel/CSV)
@@ -149,7 +116,7 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 5. ✅ System gotowy do użycia
 ```
 
-### **Employee Experience**
+### **Dla pracowników**
 ```
 1. 📱 Klik invite link → instant activation
 2. 📊 /stats → view working hours (any period)
@@ -158,13 +125,11 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 5. 🔔 Auto-notifications on approvals/payments
 ```
 
-### **Monthly Automation**
+### **Jak wygłąda koniec miesiąca**
 ```
-1. 🕐 23:59 last day → auto PDF generation
-2. 📧 Email to all employees with payroll docs
-3. ✍️ Digital signature collection via Telegram
-4. 📁 Automatic archiving in organized folders
-5. 📊 Management dashboard with monthly reports
+1. 🕐 23:59 ostatni dzień miesiąca → generacja pdf z wypłatami
+2. 📁 Automatyczna archiwacja w uporządkowanych folderach
+3. 📊 Raporty za miesiąc
 ```
 
 ---
