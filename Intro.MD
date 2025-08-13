@@ -36,21 +36,17 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 🔧 Zarządzanie Pracownikami:
 ├── Dodawanie nowych pracowników (1-klik)
 ├── Automatyczne generowanie linków aktywacyjnych
-├── Zarządzanie stawkami godzinowymi
-└── Masowe operacje (import/export)
+└── Zarządzanie stawkami godzinowymi
 
 📊 Rejestracja Godzin:
 ├── Intuicyjny interfejs do logowania czasu pracy
-├── Bulk entry dla wielu pracowników
 ├── Walidacja i sprawdzanie błędów
 └── Podgląd na żywo dzisiejszych wpisów
 
-📈 Raporty i Analitica:
-├── Raporty godzinowe per pracownik
-├── Zestawienia zespołowe i departamentowe
-├── Analiza produktywności i overtimów
-└── Export do Excel/PDF
-
+📈 Raporty i Analiza:
+├── Raporty godzinowe dla każdego pracownika
+└── Zestawienie okresowe dla każdego lub wybranych osób
+ 
 💰 Zarządzanie Wypłatami:
 ├── Automatyczne obliczenia salary
 ├── Śledzenie wniosków o wypłaty
