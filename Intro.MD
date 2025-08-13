@@ -94,30 +94,15 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 - **24/7 dostępność** dla pracowników i menedżerów
 - **Natychmiastowe liczenia wypłat** zamiast cotygodniowego przetwarzania
 
-### **💰 Bezpośredni ROI**
-```
-💵 Oszczędności Roczne:
-├── HR Time: 20h/tydzień × 52 × 80zł/h = 83,200 zł
-├── Błędy płacowe: 90% redukcja = 15,000 zł
-├── Compliance automatyzacja = 12,000 zł
-├── Outsourcing HR elimination = 120,000 zł
-└── TOTAL: 230,200 zł rocznie
-
-🎯 ROI: 5,750% (zwrot w 2 miesiące!)
-```
-
 ### **🛡️ Bezpieczeństwo i Compliance**
-- **Bank-level encryption** wszystkich danych
-- **Automatic backups** z 99.9% reliability
-- **Audit trail** każdej operacji
-- **GDPR compliance** out-of-the-box
-- **Legal digital signatures** akceptowane przez ZUS/US
+- **Bank-level szyfrowanie** wszystkich danych
+- **Automatyczne kopię zapasowe**
+- **Legalne cyfrowe podpisy** akceptowane przez ZUS/US
 
 ### **📈 Skalowalność**
 - **100-1000+ pracowników** bez przebudowy
-- **Multi-departament** support
-- **Geographic expansion** ready
-- **Integration APIs** dla ERP/HR systems
+- **Rozbudowa dla innych krajów** bez przebudowy
+- **Integracja z innymi systemami za pomocą APIs** dla ERP/HR systemów
 
 ---
 
