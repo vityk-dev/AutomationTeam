@@ -48,34 +48,34 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 └── Zestawienie okresowe dla każdego lub wybranych osób
  
 💰 Zarządzanie Wypłatami:
-├── Automatyczne obliczenia salary
+├── Automatyczne obliczenia wypłaty
 ├── Śledzenie wniosków o wypłaty
 ├── Zatwierdzanie/odrzucanie wypłat
 └── Historia wszystkich transakcji
 
 📄 Dokumentacja:
-├── Automatyczne generowanie faktur
-├── PDF-y końca miesiąca
+├── PDF-y końca miesiąca z godzinami pracowników
 ├── Archiwizacja w Google Drive
+├── Dodanie faktur z podziałem na lokację
 └── Łatwy dostęp do historii
+
+
 ```
 
-### **👥 Bot dla Pracowników (Polski Interface)**
+### **👥 Bot dla Pracowników**
 ```
 📊 Self-Service Portal:
-├── Podgląd godzin: dzień/tydzień/miesiąc/okres custom
+├── Podgląd godzin: dzień/tydzień/miesiąc/okres 
 ├── Historia wypłat i wniosków
-├── Transparentne obliczenia salary
-└── Statystyki osobistej produktywności
+└── Transparentne obliczenia wypłaty
 
 💸 System Wypłat na Żądanie:
 ├── Wniosek o wypłatę: dzień/tydzień/okres
 ├── Real-time status wniosku
-├── Automatyczne powiadomienia
-└── Historia wszystkich wypłat
+└── Automatyczne powiadomienia
 
 ✍️ Bezpieczny System Podpisów:
-├── Jednorazowa konfiguracja podpisu
+├── Jednorazowa konfiguracja podpisu w bocie
 ├── Weryfikacja przez Telegram (2FA)
 ├── Prawnie wiążące podpisy cyfrowe
 └── Automatyczne archiwizowanie dokumentów
@@ -83,8 +83,8 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 🔔 Smart Notifications:
 ├── Powiadomienia o wypłatach
 ├── Przypomnienia o brakujących godzinach
-├── Komunikaty od zarządu
-└── Status wniosków real-time
+└── Komunikaty od zarządu└── Status wniosków real-time
+
 ```
 
 ---
