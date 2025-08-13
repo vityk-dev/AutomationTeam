@@ -137,56 +137,51 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 ## 💡 **DLACZEGO TELEGRAM?**
 
 ### **Wszyscy Już Go Mają**
-- **95% penetracja** w Polsce w grupie wiekowej 18-65
-- **Zero onboarding friction** - nie trzeba instalować nowych aplikacji
-- **Mobile-first** experience - działa na każdym telefonie
-- **Push notifications** działają zawsze
+- **68% używalności** w Polsce w grupie wiekowej 18-65
+- **Zero czasu na znajomość z aplikacją** - nie trzeba instalować nowych aplikacji
+- **Mobile-first** doświadczenie - działa na każdym telefonie
+- **Push powiadomienia** działają zawsze
 
 ### **Bezpieczeństwo**
 - **End-to-end encryption** wbudowane
 - **Two-factor authentication** przez Telegram ID
-- **No data mining** - Telegram nie analizuje treści business
+- **No data mining** - Telegram nie analizuje treści businesowych
 - **Self-destructing messages** dla sensitive data
-
-### **Developer-Friendly**
-- **Robust API** z 99.9% uptime
-- **Rich UI elements** (keyboards, inline buttons)
-- **File sharing** do 2GB per file
-- **Bot platform** mature i battle-tested
-
 ---
 
 ## 🏁 **SCOPE PROJEKTU**
 
-### **✅ Co Dostarczamy (4,000 zł)**
+### **✅ Co Dostarczamy (5000 zł)**
 
-#### **Phase 1: Core System (Tydzień 1-4)**
-- 🤖 Manager Bot z pełną funkcjonalnością
-- 👥 Employee Bot z polskim interfejsem
-- 📊 Google Sheets database setup
-- 🔒 Security i authentication layers
-- 📱 Mobile-responsive signature platform
+## **Faza 1: System Podstawowy (Tydzień 1)**
+- 🤖 **Bot dla Menedżera** z pełną funkcjonalnością  
+- 👥 **Bot dla Pracownika** z polskim interfejsem  
+- 📊 **Konfiguracja bazy danych** w Google Sheets  
+- 🔒 **Warstwy bezpieczeństwa** i autoryzacji  
+- 📱 **Platforma do podpisu mobilnego** (responsywna)  
 
-#### **Phase 2: Advanced Features (Tydzień 5-6)**
-- 📄 Automatic PDF generation
-- ✍️ Digital signature system z legal compliance
-- 📁 Google Drive organization i archiving
-- 🔔 Smart notification system
-- 📈 Reporting dashboard
+## **Faza 2: Funkcje Zaawansowane (Tydzień 2)**
+- 📄 **Automatyczne generowanie plików PDF**  
+- ✍️ **System podpisu cyfrowego** zgodny z wymogami prawnymi  
+- 📁 **Organizacja i archiwizacja** w Google Drive  
+- 🔔 **Inteligentny system powiadomień**  
+- 📈 **Panel raportowy (dashboard)**  
 
-#### **Phase 3: Testing & Deployment (Tydzień 7-8)**
-- 🧪 Comprehensive testing (100+ scenarios)
-- 👥 User acceptance testing z Waszym zespołem
-- 📚 Training materials i documentation
-- 🚀 Production deployment
-- 🎯 Performance optimization
+## **Faza 3: Testy i Wdrożenie (Tydzień 2–3)**
+- 🧪 **Kompleksowe testy** (ponad 100 scenariuszy)  
+- 👥 **Testy akceptacyjne** z udziałem Waszego zespołu  
+- 📚 **Materiały szkoleniowe** i dokumentacja  
+- 🚀 **Wdrożenie produkcyjne**  
+- 🎯 **Optymalizacja wydajności**  
 
-### **🎁 Bonusy Included**
-- **3 miesiące free support** po wdrożeniu
-- **Training session** dla management team
-- **Custom PDF templates** z Waszym branding
-- **Integration consultation** dla existing systems
-- **Future scalability roadmap**
+---
+
+### **🎁 Bonusy w cenie**
+- **3 miesiące darmowego wsparcia** po wdrożeniu  
+- **Sesja szkoleniowa** dla kadry zarządzającej  
+- **Indywidualne szablony PDF** z Waszym brandingiem  
+- **Konsultacja integracyjna** z istniejącymi systemami  
+- **Mapa rozwoju systemu** na przyszłość  
 
 ### **🔄 Co NIE Jest Included**
 - Integracja z existing ERP (can be quoted separately)
