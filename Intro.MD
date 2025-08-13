@@ -5,7 +5,7 @@
 
 ## 👋 **O NASZYM ZESPOLE**
 
-Specjaliści od automatyzacji biznesowej z udokumentowanymi sukcesami:
+Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami:
 - ✅ **Salony piękności**: Automatyzacja rezerwacji i zarządzania klientami
 - ✅ **Szkoła programowania**: Kompleksowy system zarządzania kursami
 - ✅ **3+ lata doświadczenia** w dostarczaniu rozwiązań enterprise dla małych i średnich firm
