@@ -58,8 +58,6 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 ├── Archiwizacja w Google Drive
 ├── Dodanie faktur z podziałem na lokację
 └── Łatwy dostęp do historii
-
-
 ```
 
 ### **👥 Bot dla Pracowników**
@@ -84,7 +82,6 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 ├── Powiadomienia o wypłatach
 ├── Przypomnienia o brakujących godzinach
 └── Komunikaty od zarządu└── Status wniosków real-time
-
 ```
 
 ---
@@ -95,7 +92,7 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 - **95% redukcja** czasu HR na payroll processing
 - **Zero błędów** w obliczeniach (automatyzacja)
 - **24/7 dostępność** dla pracowników i menedżerów
-- **Instant payouts** zamiast cotygodniowego przetwarzania
+- **Natychmiastowe liczenia wypłat** zamiast cotygodniowego przetwarzania
 
 ### **💰 Bezpośredni ROI**
 ```
