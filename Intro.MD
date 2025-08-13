@@ -81,7 +81,7 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 🔔 Smart Notifications:
 ├── Powiadomienia o wypłatach
 ├── Przypomnienia o brakujących godzinach
-└── Komunikaty od zarządu└── Status wniosków real-time
+└── Komunikaty od zarządu
 ```
 
 ---
