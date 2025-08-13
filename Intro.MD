@@ -118,11 +118,11 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 
 ### **Dla pracowników**
 ```
-1. 📱 Klik invite link → instant activation
-2. 📊 /stats → view working hours (any period)
-3. 💰 /payout → request payment (day/week/month)
-4. ✍️ /setup_signature → one-time digital signature
-5. 🔔 Auto-notifications on approvals/payments
+1. 📱 **Kliknij link zaproszenia** → natychmiastowa aktywacja konta  
+2. 📊 **/stats** → podgląd przepracowanych godzin (dowolny okres)  
+3. 💰 **/payout** → zgłoszenie wypłaty (dzień / tydzień / miesiąc)  
+4. ✍️ **/setup_signature** → jednorazowe ustawienie podpisu cyfrowego  
+5. 🔔 **Automatyczne powiadomienia** o akceptacjach i wypłatach  
 ```
 
 ### **Jak wygłąda koniec miesiąca**
@@ -182,13 +182,6 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 - **Indywidualne szablony PDF** z Waszym brandingiem  
 - **Konsultacja integracyjna** z istniejącymi systemami  
 - **Mapa rozwoju systemu** na przyszłość  
-
-### **🔄 Co NIE Jest Included**
-- Integracja z existing ERP (can be quoted separately)
-- Custom legal compliance per country (we handle Poland)
-- On-premise hosting (cloud-only solution)
-- 24/7 phone support (email/Telegram support included)
-
 ---
 
 ## 📋 **IMPLEMENTATION TIMELINE**
