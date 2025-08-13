@@ -170,7 +170,6 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 ### **Faza 3: Testy i Wdrożenie (Tydzień 2–3)**
 - 🧪 **Kompleksowe testy** (ponad 100 scenariuszy)  
 - 👥 **Testy akceptacyjne** z udziałem Waszego zespołu  
-- 📚 **Materiały szkoleniowe** i dokumentacja  
 - 🚀 **Wdrożenie produkcyjne**  
 - 🎯 **Optymalizacja wydajności**  
 
