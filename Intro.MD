@@ -153,21 +153,21 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 
 ### **✅ Co Dostarczamy (5000 zł)**
 
-## **Faza 1: System Podstawowy (Tydzień 1)**
+### **Faza 1: System Podstawowy (Tydzień 1)**
 - 🤖 **Bot dla Menedżera** z pełną funkcjonalnością  
 - 👥 **Bot dla Pracownika** z polskim interfejsem  
 - 📊 **Konfiguracja bazy danych** w Google Sheets  
 - 🔒 **Warstwy bezpieczeństwa** i autoryzacji  
 - 📱 **Platforma do podpisu mobilnego** (responsywna)  
 
-## **Faza 2: Funkcje Zaawansowane (Tydzień 2)**
+### **Faza 2: Funkcje Zaawansowane (Tydzień 2)**
 - 📄 **Automatyczne generowanie plików PDF**  
 - ✍️ **System podpisu cyfrowego** zgodny z wymogami prawnymi  
 - 📁 **Organizacja i archiwizacja** w Google Drive  
 - 🔔 **Inteligentny system powiadomień**  
 - 📈 **Panel raportowy (dashboard)**  
 
-## **Faza 3: Testy i Wdrożenie (Tydzień 2–3)**
+### **Faza 3: Testy i Wdrożenie (Tydzień 2–3)**
 - 🧪 **Kompleksowe testy** (ponad 100 scenariuszy)  
 - 👥 **Testy akceptacyjne** z udziałem Waszego zespołu  
 - 📚 **Materiały szkoleniowe** i dokumentacja  
