@@ -151,7 +151,7 @@ Jesteśmy specjalistami od automatyzacji biznesowej z udokumentowanymi sukcesami
 
 ## 🏁 **SCOPE PROJEKTU**
 
-### **✅ Co Dostarczamy (5000 zł)**
+### **✅ Co Dostarczamy (4000 zł)**
 
 ### **Faza 1: System Podstawowy (Tydzień 1)**
 - 🤖 **Bot dla Menedżera** z pełną funkcjonalnością  
