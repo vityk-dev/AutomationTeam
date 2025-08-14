@@ -187,3 +187,4 @@
 
 *Automation Excellence Since 2021*  
 *Спеціалізація у Telegram- та хмарних бізнес-рішеннях*
+*vityk4work@gmail.com*
